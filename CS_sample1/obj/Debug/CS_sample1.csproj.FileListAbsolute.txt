@@ -1,0 +1,10 @@
+C:\Users\Samet\Documents\Github\Projects_CS\CS_sample1\CS_sample1\bin\Debug\CS_sample1.exe.config
+C:\Users\Samet\Documents\Github\Projects_CS\CS_sample1\CS_sample1\bin\Debug\CS_sample1.exe
+C:\Users\Samet\Documents\Github\Projects_CS\CS_sample1\CS_sample1\bin\Debug\CS_sample1.pdb
+C:\Users\Samet\Documents\Github\Projects_CS\CS_sample1\CS_sample1\obj\Debug\CS_sample1.csprojResolveAssemblyReference.cache
+C:\Users\Samet\Documents\Github\Projects_CS\CS_sample1\CS_sample1\obj\Debug\CS_sample1.Form1.resources
+C:\Users\Samet\Documents\Github\Projects_CS\CS_sample1\CS_sample1\obj\Debug\CS_sample1.Properties.Resources.resources
+C:\Users\Samet\Documents\Github\Projects_CS\CS_sample1\CS_sample1\obj\Debug\CS_sample1.csproj.GenerateResource.cache
+C:\Users\Samet\Documents\Github\Projects_CS\CS_sample1\CS_sample1\obj\Debug\CS_sample1.csproj.CoreCompileInputs.cache
+C:\Users\Samet\Documents\Github\Projects_CS\CS_sample1\CS_sample1\obj\Debug\CS_sample1.exe
+C:\Users\Samet\Documents\Github\Projects_CS\CS_sample1\CS_sample1\obj\Debug\CS_sample1.pdb
