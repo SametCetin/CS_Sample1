@@ -8,3 +8,14 @@ C:\Users\Samet\Documents\Github\Projects_CS\CS_sample1\CS_sample1\obj\Debug\CS_s
 C:\Users\Samet\Documents\Github\Projects_CS\CS_sample1\CS_sample1\obj\Debug\CS_sample1.csproj.CoreCompileInputs.cache
 C:\Users\Samet\Documents\Github\Projects_CS\CS_sample1\CS_sample1\obj\Debug\CS_sample1.exe
 C:\Users\Samet\Documents\Github\Projects_CS\CS_sample1\CS_sample1\obj\Debug\CS_sample1.pdb
+C:\Projects_CS\CS_sample1\CS_sample1\bin\Debug\CS_sample1.exe.config
+C:\Projects_CS\CS_sample1\CS_sample1\bin\Debug\CS_sample1.exe
+C:\Projects_CS\CS_sample1\CS_sample1\bin\Debug\CS_sample1.pdb
+C:\Projects_CS\CS_sample1\CS_sample1\obj\Debug\CS_sample1.csprojResolveAssemblyReference.cache
+C:\Projects_CS\CS_sample1\CS_sample1\obj\Debug\CS_sample1.Form1.resources
+C:\Projects_CS\CS_sample1\CS_sample1\obj\Debug\CS_sample1.Properties.Resources.resources
+C:\Projects_CS\CS_sample1\CS_sample1\obj\Debug\CS_sample1.csproj.GenerateResource.cache
+C:\Projects_CS\CS_sample1\CS_sample1\obj\Debug\CS_sample1.csproj.CoreCompileInputs.cache
+C:\Projects_CS\CS_sample1\CS_sample1\obj\Debug\CS_sample1.exe
+C:\Projects_CS\CS_sample1\CS_sample1\obj\Debug\CS_sample1.pdb
+C:\Projects_CS\CS_sample1\CS_sample1\obj\Debug\CS_sample1.Form2.resources
